@@ -1,5 +1,2 @@
-const repeatString = function() {
-
-}
-
-module.exports = repeatString
+const
+  module.exports = repeatString
