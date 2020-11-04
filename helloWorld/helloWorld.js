@@ -4,4 +4,4 @@ const helloWorld = function() {
 
 module.exports = helloWorld
 
-// completed self 100%
+// completed 100%
